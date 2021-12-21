@@ -1,13 +1,13 @@
 #
-# Copyright (C) 2020 The ArrowOS
+# Copyright (C) 2020 The OctaviOS
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_miatoll.mk
+    $(LOCAL_DIR)/octavi_miatoll.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_miatoll-user \
-    arrow_miatoll-userdebug \
-    arrow_miatoll-eng
+    octavi_miatoll-user \
+    octavi_miatoll-userdebug \
+    octavi_miatoll-eng
